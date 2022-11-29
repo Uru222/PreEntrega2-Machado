@@ -1,0 +1,397 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  color: rgb(70, 43, 11);
+}
+
+p {
+  margin: 0;
+}
+
+body {
+  min-width: 375px;
+  margin: 0px auto;
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(245, 232, 209);
+}
+
+.navbarmaxwidth {
+  max-width: 1275px;
+}
+
+.main {
+  margin: 0 auto;
+  max-width: 75%;
+  min-height: 62vh;
+}
+
+.hero__header {
+  display: flex;
+
+  justify-content: space-between;
+  padding: 2rem 2rem 0 2rem;
+}
+
+.logo {
+  font-family: "Bebas Neue", cursive;
+  font-size: 2rem;
+  font-weight: 400;
+  margin-top: 1.8rem;
+}
+
+.header__right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 1rem;
+  margin: 0 1rem 0 1rem;
+}
+
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header__right p {
+  font-family: "Lato", sans-serif;
+}
+
+.header__right .menu {
+  font-family: "Bebas Neue", cursive;
+  display: flex;
+  font-size: 1.4rem;
+  gap: 2rem;
+  letter-spacing: 1.5px;
+}
+
+.botones {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 1rem;
+  margin: 2rem 16px 0px 16px;
+}
+
+.botones img {
+  width: 100%;
+  overflow: hidden;
+}
+
+.h1__titulo {
+  font-size: 3rem;
+  color: rgb(70, 43, 11);
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  text-decoration-line: underline;
+}
+
+/* CARDS GRID*/
+
+.contenedor {
+  display: grid;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  grid-auto-rows: auto;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 300px));
+}
+
+.contenedor__caja img {
+  border-radius: 1rem;
+  width: 100%;
+  max-width: fit-content;
+  min-width: 100px;
+}
+.card__descripcion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nombre__comida {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: rgb(248, 170, 26);
+  margin-top: 1rem;
+}
+
+.precio__comida {
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: rgb(189, 130, 22);
+}
+
+.ordenarfooter {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.footer {
+  background-color: rgb(248, 170, 26);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-top: auto;
+}
+
+.nuestrasredes {
+  height: fit-content;
+}
+/* .footer__redes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+
+/* .footer__redes p {
+  } */
+
+.footer__img {
+  width: 2rem;
+}
+
+.creadopor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/**********************  MENU  ***************************/
+
+/* .menucomidas {
+} */
+
+.menucomidas__img {
+  width: 100%;
+  height: auto;
+}
+
+/**********************  NOSOTROS  ***************************/
+
+.nosotros__titulo {
+  font-size: 1.5rem;
+  color: rgb(248, 170, 26);
+  margin: 3rem 0rem 2rem 3rem;
+}
+
+.nosotros__texto {
+  max-width: 45%;
+  margin-left: 3rem;
+  margin-bottom: 3rem;
+}
+
+/**********************  CONTACTO  ***************************/
+.contacto {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  color: black;
+  font-size: 2rem;
+}
+
+.formulario {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+  max-width: 80%;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="reset"] {
+  background-color: #da2020;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#mensaje {
+  width: 100%;
+  color: black;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.mapas {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/**********************  LOGIN  ***************************/
+
+.login {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.h1login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+img.avatar {
+  width: 20%;
+  border-radius: 50%;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  position: relative;
+}
+
+.login__section {
+  display: flex;
+  flex-direction: column;
+
+  margin: 1rem 0rem 3rem 0rem;
+  max-width: 80%;
+  height: 50%;
+  padding: 20px;
+  background-color: rgba(97, 146, 187, 0.4);
+  padding-bottom: 1rem;
+}
+.contrasena__olvidada {
+  display: flex;
+  width: fit-content;
+  margin-top: 1rem;
+  background-color: rgb(255, 255, 255);
+  padding: 1rem;
+}
+
+.psw {
+  text-decoration: underline;
+  color: blue;
+}
+
+input[type="text"],
+input[type="password"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+hr.rounded {
+  display: none;
+}
+
+/**********************  MENU_COMPLETO  ***************************/
+
+.menucomidas__img {
+  height: auto;
+  max-height: 95vh;
+}
+
+/**********************  ANIMACIONES  ***************************/
+
+.contenedor__caja img:hover {
+  transform: scale(1.3);
+  transition: 1s;
+  z-index: 2;
+}
+
+/**********************  MQ  ***************************/
+
+@media only screen and (max-width: 837px) {
+  body {
+    width: 100%;
+    min-width: 375px;
+  }
+  .main {
+    max-width: 100%;
+    min-width: 375px;
+  }
+  .h1__titulo {
+    font-size: 1.5rem;
+    color: rgb(70, 43, 11);
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+  }
+  .contenedor {
+    /* display: grid;
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto; */
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+  }
+  .contenedor__caja {
+    display: grid;
+    grid-template-columns: minmax(130px, 1fr) minmax(100px, 1.6fr);
+    /* grid-template-columns: 1fr 1.6fr; */
+    /* grid-template-rows: minmax(min-content, max-content); */
+    grid-template-rows: fit-content;
+    gap: 1rem;
+    margin: 0px 16px 0px 16px;
+  }
+  .card__descripcion {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+    align-items: flex-start;
+    overflow: auto;
+  }
+  .nombre__comida {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: rgb(248, 170, 26);
+    margin-top: 0;
+    line-height: 1;
+  }
+
+  hr.rounded {
+    display: block;
+    border-top: 8px solid rgb(248, 170, 26);
+    border-radius: 5px;
+    margin: 1rem 0;
+  }
+}

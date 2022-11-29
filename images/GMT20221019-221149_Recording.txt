@@ -1,0 +1,236 @@
+00:56:52	Juan Ignacio Marcos:	Perectoo
+00:56:53	Joaquín Braun:	si profe
+00:56:56	Martin Peralta:	Si
+00:56:56	Ramiro Luna:	10/10
+00:57:12	Salomon Oscar Atach:	una consulta estas en vsc o es la pagina de figma?
+00:57:28	Agustin Bernabe Erimbaue:	figma
+00:57:31	Brandon Acosta:	figma
+00:57:39	Salomon Oscar Atach:	gracias
+00:58:33	Gonzalo:	Hola buenas tardes
+00:58:42	Pedro Machado:	hay algun standard de grillas en web?
+00:59:50	Pedro Machado:	👍🏼
+01:00:40	Sebasthian Calderón García:	esta sesión será para aprender a usar figma?
+01:00:45	Alvaro Salazar:	esto es lo mismo que vamos hacer para la 1er pre entrega no?
+01:02:21	Gonza Avedano:	SE PUEDE COPIAR Y PEGAR SI QUIERO LOS BOTONES IGUALES ?
+01:02:36	Alvaro Salazar:	como Canva
+01:02:53	pablo garay:	como incorporamos el wiframe a visual studio-
+01:03:18	Gonza Avedano:	Como era para hacer lo que hiciste recién ?
+01:03:24	Gonza Avedano:	colgué con el atajo
+01:03:37	pablo garay:	bueno sisi
+01:04:40	pablo garay:	lo que quería era entender si después se copia el link de wiframe a visual studio para visualizar nuestro contenido de esa manera
+01:04:52	Martin Peralta:	Esto lo tenemos que hacer acorde a lo que queremos para nuestro proyecto verdad?
+01:05:05	Brandon Acosta:	si
+01:05:13	Ramiro Oviedo:	No Pablo, no funciona asi.
+01:05:32	Ramiro Oviedo:	eso que esta haciendo es para tener un pdf del sketch, de la idea de como va a ser su web
+01:08:02	Pablo Gaston Medina:	solo me deja poner un rectángulo al lado del otro como hago para ponerlo donde yo quiero?
+01:08:34	Juan Ignacio Marcos:	El navbar y footer hay que ponerlos en cada uno de los sketchs, no?
+01:08:57	Alvaro Salazar:	no están centrados los cuadrados
+01:10:02	tomas heredia:	eso seria el footer?
+01:10:07	Alvaro Salazar:	si
+01:10:08	Ismael Veron:	como hago para alargar mas la pagina?
+01:10:11	Mariano Latrecchiana:	Profe a mi se me facilita usar la web https://whimsical.com/ para los wireframe, puedo usarla? o tiene que ser Balsamiq y figma solamente?
+01:11:02	Mateo Cavallini:	como agrando la pagina?
+01:11:05	Alba Rotela:	Dijo que podemos usar la herramienta que queramos
+01:11:15	Mariano Latrecchiana:	Gracias!
+01:12:05	Marcela Schenone:	esta bueno, es sencillo
+01:12:29	Gonza Avedano:	esto es todo lo que hay que entregar digamos?
+01:12:36	Gonza Avedano:	obviamente después para cada pagina
+01:12:42	Alvaro Salazar:	centrado los 3 antes del footer con las 12 barras
+01:12:44	Joaquín Braun:	viste los 3 que están antes del footer? esos 3 dice que no están centrados con las líneas xd
+01:12:55	Martin Peralta:	Los de arriba
+01:13:03	Alvaro Salazar:	si
+01:13:04	Joaquín Braun:	si esas xd
+01:13:04	Martin Peralta:	Si, a eso se refiere
+01:13:15	Joaquín Braun:	muy detallista
+01:13:16	Alvaro Salazar:	exacto
+01:14:35	Luis Maco:	profe, podría repetir lo de duplicar?
+01:14:38	Martin Peralta:	Podria repetir de como duplicar
+01:14:41	Gonza Avedano:	excelente !
+01:14:49	Santiago Guevara:	alt y arrastrar con el mouse
+01:14:51	Martin Fernandez:	con alt duplicas
+01:14:55	Martin Peralta:	Nice
+01:14:57	Martin Peralta:	Ty
+01:15:07	Luis Maco:	ah listo gracias
+01:15:41	Vicxon Mejias:	Profe, a los cuadros se les puede superponer texto o escribir en el medio para indicar qué tipo de elemento son dentro de la página web?
+01:15:51	Alvaro Salazar:	esa grilla mobile no se modifica no}'?
+01:16:34	Valentino Roncolato:	podría repetir como abrir un grilla mobile?
+01:16:53	Vicxon Mejias:	Genial, gracias!
+01:17:18	Profesor Coderhouse:	https://www.figma.com/file/FwauJ07UYSNQNFTvcpRzIG/Untitled?node-id=0%3A1
+01:18:13	Alvaro Salazar:	ese link es el que entregarimos en el chat de la plataforma?
+01:18:18	Santiago Acosta:	profe el wireframe tiene que ser en pdf?
+01:18:30	Martin Peralta:	Oh, por lo que veo, con figma te brinda el code css
+01:18:54	Alvaro Salazar:	balsamiq es similar el uso? me refiero a dibujar el sketch
+01:18:54	Martin Peralta:	Sisi, pero facilita muchísimo.
+01:19:29	Alvaro Salazar:	okok
+01:20:29	Gonza Avedano:	El index por las dudas es la misma pagina que inicio ?
+01:20:47	Emiliano Coitiño:	profe porque a mi no me aparece abrir la carpeta en code
+01:20:58	Gonza Avedano:	cuando lo instalas te da la opcion
+01:21:24	Gonza Avedano:	me paso lo mismo je!
+01:21:28	Alvaro Salazar:	o la arrastras
+01:23:05	Nicolas Araoz:	como se arrasrtaba/copiaba una linea?
+01:23:19	Agustin Bernabe Erimbaue:	en el nav cuando lo armo asi con la lista se ponen uno a la par del otro o uno abajo de lo otro
+01:23:32	Sebasthian Calderón García:	disculpa, en el main va algo en especifico? olvide ese detalle...
+01:25:08	Juan Ignacio Marcos:	El main seria el "contenido", lo que no es navbar o footer
+01:25:22	Sebasthian Calderón García:	ahhhokok
+01:25:23	Sebasthian Calderón García:	gracias
+01:25:35	Santiago Guevara:	Podrías contar el consejo de tu profesor? me interesa.
+01:25:53	Santiago Guevara:	Lo de que es una buena practica escribir las carpetas en ingles.
+01:26:47	Ismael Veron:	en alt hay que poner palabras cortitas?
+01:26:51	Mariano Latrecchiana:	Profe, mi proyecto lo estoy haciendo de una pizzeria justamente, pero no existe, estoy inventando todo, no hay problema?
+01:26:59	Vicxon Mejias:	Profe, siempre para la lista de las distintas páginas siempre va a quedar así como listed items y después con CSS hacemos que aparezcan uno del lado del otro a modo de tabs o botoncitos?
+01:27:36	Luis Maco:	shift + alt + flecha abajo es
+01:28:17	Vicxon Mejias:	Perfect!
+01:30:02	Gonza Avedano:	consulta, tengo varias paginas, las tengo dentro de una carpeta aparte, pero cuando les hago el a con obviamente ../ busco la ubicación y todo pero me a error en el enlaace
+01:30:51	Agustin Bernabe Erimbaue:	profe estaria mal si pongo section en cada imagen con su descripcion?
+01:31:24	Alvaro Salazar:	claro hay que estar atento a los niveles de las carpetas
+01:32:05	Gonza Avedano:	ya esta jeje
+01:32:08	Gonza Avedano:	le erre
+01:32:23	Gonza Avedano:	probando
+01:32:29	Gonza Avedano:	la case!
+01:33:09	Gonza Avedano:	ahhh excelente !!!
+01:33:26	Gonza Avedano:	ahora entendí es que estando en la otra carpeta ! mil gracias por la aclaración !
+01:33:37	Mariano Latrecchiana:	profe puede explicar lo del # que se le pone a la etiqueta a, que es lo que cambiaba eso?
+01:34:36	Salomon Oscar Atach:	no me queda marcado en rojo "pages/contacto.html", me queda en blanco
+01:34:58	Tobias Guerrero:	profe podría explicar como penerle un icono a la pagina, q no termine de entenderlo ayer
+01:35:10	Tobias Guerrero:	claro
+01:35:48	Agustin Bernabe Erimbaue:	profe con el tema de section si yo pongo una imagen y escribo un parrafo estaria mal poner otra section si pongo otra imagen con parrafo?
+01:35:54	Ramiro Aparicio:	consulta, la de ayer fue clase 2?
+01:36:02	Alvaro Salazar:	si
+01:36:27	Brandon Acosta:	a manopla
+01:36:29	Brandon Acosta:	jajajaajajaja
+01:37:24	Agustin Bernabe Erimbaue:	perfecto gracias
+01:37:40	Ismael Veron:	vamos joya :D
+01:37:41	Tobias Guerrero:	profe no termina de dejarme colocar el icono
+01:38:09	Martin Peralta:	Se refiere al vinculo con el ID no?
+01:38:11	Sebasthian Calderón García:	Tienes que ubicar la imagen dentro de una carpeta, luego referenciarla en el codigo
+01:38:31	Sebasthian Calderón García:	la etiqueta tiene que estar en HEAD*, no header
+01:38:41	Sebasthian Calderón García:	pa tobias xd
+01:39:16	Gonza Avedano:	la barra de navegación con los botones uno al lado del otro lo hacemos con css o con HTML5 ?
+01:40:27	Martin Peralta:	Niceeee
+01:40:31	Profesor Coderhouse:	https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior
+01:41:21	Tobias Guerrero:	listoo gracias profe! logre poner el icono
+01:41:49	Gonza Avedano:	cuando ponemos los enlaces a videos
+01:41:53	Gonza Avedano:	en que parte del código lo ponemos
+01:42:00	Gonza Avedano:	section? nav ? p ?
+01:42:11	Gonza Avedano:	article?
+01:42:27	Gonza Avedano:	los iframe
+01:42:32	Gonza Avedano:	perdón flashie con nav
+01:42:38	Gonza Avedano:	era con div
+01:43:03	Alvaro Salazar:	su puede hacer un header con una imagen con movimiento?
+01:43:36	Alvaro Salazar:	´perfecto gracias!
+01:43:43	Luis Maco:	Profe no adelante porfa :(
+01:43:59	Emiliano Coitiño:	profe que nos recomendas para practicar código?me resulta difícil acordarme todos
+01:44:03	Martin Peralta:	Para ordenar semánticamente todo, seria algo como main, section, article, y dentro meter cosas como un p y un img? O sea usar el article como un contenedor?
+01:44:15	Brandon Acosta:	no es necesario acordarte de todos
+01:44:24	Martin Peralta:	Obviamente todo dentro de body
+01:44:51	Brandon Acosta:	hay una pag que tiene la info de todos los códigos ahí podeas consultar
+01:45:12	Martin Peralta:	Con la practica y el tiempo se te queda guardado todo jaja
+01:45:26	Salomon Oscar Atach:	podes poner la dirección?
+01:45:37	Brandon Acosta:	te puso el nombre ahi
+01:45:52	Brandon Acosta:	escribilo en un papel
+01:46:06	Ismael Veron:	y la pagina free code camp? también sirve?
+01:46:07	Gonza Avedano:	Le estoy intentando diseñar la pagina a un amigo, pero cuando pongo el iframe me salen "no disponible" que tengo que decirle que modifique para poder usarlos ?
+01:46:09	Emiliano Coitiño:	barbaro muchas gracias
+01:46:43	Brandon Acosta:	https://developer.mozilla.org/es/
+01:46:52	Salomon Oscar Atach:	por favor el link de HTML?
+01:47:15	Salomon Oscar Atach:	no escuche
+01:47:48	Gonza Avedano:	excelente !
+01:47:50	Brandon Acosta:	w3schools
+01:47:54	Ismael Veron:	Hay que acostumbrarse a leer todo en ingles =)
+01:48:04	Martin Peralta:	Para ordenar semánticamente todo, seria algo como body, main, section, article, y dentro meter cosas como un p y un img? O sea usar el article como un contenedor?
+01:48:06	Brandon Acosta:	hay que aprender ingles xd
+01:48:44	Catalina Krenz:	Profe, lo que nos mostro con Figma es para hacer el  wireframe de nuestra pagina del proyecto final?
+01:49:32	Alvaro Salazar:	si, del sketch de tu proyecto
+01:49:35	Alvaro Salazar:	a justo
+01:49:40	Martin Peralta:	Claro, se puede remplazar el article con un div no? Me quedo claro, gracias!
+01:49:48	Catalina Krenz:	Gracias!
+01:49:57	Ismael Veron:	profe también hay que acostumbrarse a navegar paginas y abrir la herramienta de desarrollador para ver como están estructuradas
+01:50:55	Martin Peralta:	Listo, gracias, me quedo claro.
+01:50:56	pablo garay:	la verdad que muy interesante todo lamento estar un poco atrasado con mi proyecto y los wireframes.. debido a mi trabajo a veces no dispongo de mucho tiempo con la pc y voy haciendo las cosas de a poco.. quisiera preguntar las medidas recomendadas de pixeles para hacer los wireframes con Balsamiq..
+01:51:25	Edy Espinosa:	somos dos pablo jaja
+01:52:08	Luis Maco:	lo mismo de pablo garay, la uni me está matando pero ahí vamos, la entrega es en un par de clases
+01:52:20	pablo garay:	genial gracias
+01:52:29	pablo garay:	voy a practicar figma tambien
+01:52:53	Luis Maco:	forms profe
+01:52:54	Ismael Veron:	sigamos
+01:52:55	Luis Maco:	el repaso
+01:53:14	Sebasthian Calderón García:	lo de los fonts, pls
+01:53:14	Luis Maco:	el repaso de los forms
+01:53:15	Gonza Avedano:	Poruqe no puedo ir entre paginas que están dentro de la misma carpeta?
+01:53:20	Luis Maco:	y también lo de los fonts
+01:53:36	Gonza Avedano:	sisi las tengo todas en pages
+01:53:36	Ismael Veron:	Luis a los de los fonts lo vemos en css
+01:54:54	tomas heredia:	la actividad del workbook por donde se entrega?
+01:55:01	Ramiro Luna:	iconos
+01:55:03	Sebasthian Calderón García:	esa no se entrega
+01:55:09	Brandon Acosta:	esa es personal
+01:55:10	tomas heredia:	ah oka
+01:55:13	tomas heredia:	gracias
+01:55:14	Sebasthian Calderón García:	es para ir practicando para las pre entregas
+01:55:50	Gonza Avedano:	no termine de entender cuando usamos el main .. porque por lo visto no lo puse nunca jaja
+01:56:04	Alvaro Salazar:	main es todo el contenido
+01:56:16	Sebasthian Calderón García:	sin incluir el header ni footer
+01:56:24	Sebasthian Calderón García:	lo que va en la mitad de esas dos
+01:56:35	Sebasthian Calderón García:	header
+01:56:37	Sebasthian Calderón García:	main
+01:56:39	Sebasthian Calderón García:	footer
+01:56:40	Alvaro Salazar:	header=encabezadofooter= pie de pagina
+01:56:49	Alvaro Salazar:	seria algo asi
+01:56:53	Alvaro Salazar:	en el medio esta main
+01:57:02	Sebasthian Calderón García:	epa
+01:57:31	Alan Casco Giachetto:	adonde iban los datos de contacto?
+01:57:45	Gonza Avedano:	LO DEL ENLACE COMO UN PAVO LE DEJE EL ENLACE A LA CARPETA, EN VEZ DEL NOMBRE jaja ya lo arregle
+01:57:50	Martin Fernandez:	gracias por el repaso, sirvió para refrescar lo aprendido
+01:57:52	Martin Peralta:	El h1 no del contacto.html, no tendría que estar dentro del main?
+01:58:04	Luis Maco:	la clase pasada jaja
+01:58:35	Michael:	profe no se por que no me funcionan los <a href="">
+01:58:48	Michael:	los botones quiero decir
+01:58:57	Michael:	hay que linkearlos?
+01:59:35	Ismael Veron:	copado =)
+02:00:00	Michael:	los tengo
+02:00:23	Marcela Schenone:	profe me muestra el código donde pego el código del mapa?
+02:00:51	Agustin Bernabe Erimbaue:	profe me salgo de la clase, saludos a todos!
+02:00:59	Ismael Veron:	profe puede pasar su linkedin
+02:02:08	Gonza Avedano:	podras mostrarnos devuelta como agregar la ubicacion
+02:02:11	Gonza Avedano:	va el pmapa
+02:02:30	Juan Ignacio Marcos:	Cuando veamos css vamos a ver mas la importancia de separar el navbar, el main y el footer. Pero es buena practica tenerlo separado y no todo en un bloque junto en el body
+02:02:34	Marcela Schenone:	gracias
+02:02:50	Michael:	ahí lo mandé
+02:02:54	Michael:	no se como mostrarseló
+02:02:59	Michael:	algo está mal
+02:03:03	Andrés Fedele:	D:
+02:03:04	Michael:	no funcionan los botones
+02:03:17	Ismael Veron:	bueno no importa
+02:03:19	Ismael Veron:	la prox
+02:04:02	Andrés Fedele:	Tal vez cambió la contraseña en algún momento y no la actualizó en la pc
+02:05:11	Michael:	buenísimos profee
+02:05:26	Michael:	okay la idea era crear una pagina donde poner mis logros
+02:05:31	Michael:	va queriendo gracias profe!
+02:05:38	Martin Fernandez:	muchas gracias, nos vemos mañana!
+02:05:40	Ramiro Aparicio:	Muy buena la clase
+02:05:43	Michael:	el link entonces es solo para el favicon?
+02:05:59	Luis Maco:	y lo de las fuentes profe?
+02:06:04	Profesor Coderhouse:	https://cdnjs.com/
+02:06:08	Luis Maco:	ok profesor
+02:06:48	Profesor Coderhouse:	https://fontawesome.com/icons
+02:06:58	Alan Casco Giachetto:	me voy yendo. Muy buena la clase de hoy. saludos!
+02:07:49	Juan Ignacio Marcos:	Uh buenisimoo
+02:07:59	Luis Maco:	como lo buscó profe? porfa repita
+02:08:00	Andrés Fedele:	Perfecto
+02:08:23	Martin Peralta:	https://cdnjs.com
+02:09:03	Profesor Coderhouse:	<link      rel="stylesheet"      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"      integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="      crossorigin="anonymous"      referrerpolicy="no-referrer"    />
+02:10:03	Martin Peralta:	Muchas gracias por todo profe! Me retiro, buenas noches.
+02:10:05	Ramiro Aparicio:	excelente
+02:10:07	Juan Ignacio Marcos:	Muchas gracias por la clase profe! Buenas noches, nos vemos mañanaa
+02:10:15	Tobias Guerrero:	Muchas gracias profe! q tengan buenas noches
+02:10:22	Ismael Veron:	Copado profe! Nos vemos mañana
+02:10:24	Valentino Burioni Bordon:	nos vemos profe
+02:10:24	Genaro Montaldo:	Muchísimas gracias!
+02:10:25	Andrés Fedele:	Genial, muchas gracias!
+02:10:25	Sebasthian Calderón García:	gracias profe!
+02:10:27	Vicxon Mejias:	Muchas gracias profe
+02:10:27	Luis Maco:	muchas gracias profesor, nos vemos mañana!
+02:10:28	Andrés Fedele:	Abrazo!
+02:10:28	Jonathan Gomez:	Muchas gracias profe, exelente contenido, saudos.
+02:10:29	Juan Pinasco:	muchas gracias profe
+02:10:29	Vicxon Mejias:	Hasta mañana
